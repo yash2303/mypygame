@@ -1,5 +1,5 @@
 # mypygame
-A simple pygame
+A simple minecraft pygame
 
 ## Setup
 ```python mypygame.py```
